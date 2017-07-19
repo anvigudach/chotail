@@ -1,8 +1,7 @@
 # Principios del Manifiesto Chotail
 
-Nuestra mayor prioridad es satisfacer al cliente
-mediante la entrega temprana y continua de software
-con valor.
+Nuestra mayor prioridad es sobrevivir al cliente
+mediante la entrega aleatoria e incompleta de software.
 
 Aceptamos que los requisitos cambien, incluso en etapas 
 tardías del desarrollo. Los procesos Ágiles aprovechan

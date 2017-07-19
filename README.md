@@ -32,8 +32,8 @@ a lo loco. Los promotores, desarrolladores y usuarios
 debemos ser capaces de mantener un ritmo constante 
 de forma indefinida, y nunca mejor dicho.
 
-La atención continua a la excelencia técnica y al 
-buen diseño mejora la Agilidad.
+La atención continua al "compromiso técnico" y al 
+"buen diseño" mejora la Chotalidad.
 
 La simplicidad, o el arte de maximizar la cantidad de
 trabajo no realizado, es esencial.

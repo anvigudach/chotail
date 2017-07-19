@@ -35,8 +35,8 @@ de forma indefinida, y nunca mejor dicho.
 La atención continua al "compromiso técnico" y al 
 "buen diseño" mejora la Chotalidad.
 
-La simplicidad, o el arte de maximizar la cantidad de
-trabajo no realizado, es esencial.
+La precariedad, o el arte de maximizar la deuda
+técnica, es esencial.
 
 Las mejores arquitecturas, requisitos y diseños
 emergen de equipos auto-organizados.

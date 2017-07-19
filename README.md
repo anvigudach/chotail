@@ -27,10 +27,10 @@ miembros es el silencio.
 Las demos de contenido sin verificar son la medida
 principal de progreso.
 
-Los procesos Ágiles promueven el desarrollo 
-sostenible. Los promotores, desarrolladores y usuarios
+Los procesos Chotailes promueven el desarrollo 
+a lo loco. Los promotores, desarrolladores y usuarios
 debemos ser capaces de mantener un ritmo constante 
-de forma indefinida.
+de forma indefinida, y nunca mejor dicho.
 
 La atención continua a la excelencia técnica y al 
 buen diseño mejora la Agilidad.

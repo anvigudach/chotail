@@ -3,10 +3,10 @@
 Nuestra mayor prioridad es sobrevivir al cliente
 mediante la entrega aleatoria e incompleta de software.
 
-Aceptamos que los requisitos cambien, incluso en etapas 
-tardías del desarrollo. Los procesos Ágiles aprovechan
-el cambio para proporcionar ventaja competitiva al 
-cliente.
+Aceptamos que los requisitos no existan, incluso en etapas 
+tardías del desarrollo. Los procesos Chotailes aprovechan
+el cambio para proporcionar diversión y gozo al equipo
+de desarrollo & QA.
 
 Entregamos software funcional frecuentemente, entre dos
 semanas y dos meses, con preferencia al periodo de 

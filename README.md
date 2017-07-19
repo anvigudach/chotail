@@ -24,8 +24,8 @@ El método más eficiente y efectivo de comunicar
 información al equipo de desarrollo y entre sus 
 miembros es el silencio.
 
-El software funcionando es la medida principal de 
-progreso.
+Las demos de contenido sin verificar son la medida
+principal de progreso.
 
 Los procesos Ágiles promueven el desarrollo 
 sostenible. Los promotores, desarrolladores y usuarios

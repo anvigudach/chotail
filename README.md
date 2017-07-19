@@ -22,7 +22,7 @@ ejecución del trabajo.
 
 El método más eficiente y efectivo de comunicar 
 información al equipo de desarrollo y entre sus 
-miembros es la conversación cara a cara.
+miembros es el silencio.
 
 El software funcionando es la medida principal de 
 progreso.

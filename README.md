@@ -39,7 +39,7 @@ La precariedad, o el arte de maximizar la deuda
 técnica, es esencial.
 
 Las mejores arquitecturas, requisitos y diseños
-emergen de equipos auto-organizados.
+emergen de equipos des-organizados e in-comunicados.
 
 A intervalos regulares el equipo reflexiona sobre
 cómo ser más efectivo para a continuación ajustar y

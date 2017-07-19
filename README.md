@@ -12,7 +12,7 @@ Entregamos software no funcional frecuentemente,
 cada semana como muy tarde. 
 
 Los responsables de negocio y los desarrolladores
-trabajamos juntos de forma cotidiana durante todo
+NO nos relacionamos de ninguna forma durante todo
 el proyecto.
 
 Los proyectos se desarrollan en torno a individuos 

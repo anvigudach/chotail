@@ -42,5 +42,6 @@ Las mejores arquitecturas, requisitos y diseños
 emergen de equipos des-organizados e in-comunicados.
 
 A intervalos regulares el equipo reflexiona sobre
-cómo ser más efectivo para a continuación ajustar y
-perfeccionar su comportamiento en consecuencia.
+cómo ser más efectivo para a continuación ignorarlo
+completamente y volver a tener los mismo problemas
+en consecuencia.

@@ -15,9 +15,10 @@ Los responsables de negocio y los desarrolladores
 NO nos relacionamos de ninguna forma durante todo
 el proyecto.
 
-Los proyectos se desarrollan en torno a individuos 
-motivados. Hay que darles el entorno y el apoyo que 
-necesitan, y confiarles la ejecución del trabajo. 
+Los proyectos se desarrollan en torno a recursos de
+desarrollo flipados. No hay que darles el entorno
+ni el apoyo que necesitan, y presionarlos con la
+ejecución del trabajo. 
 
 El método más eficiente y efectivo de comunicar 
 información al equipo de desarrollo y entre sus 
